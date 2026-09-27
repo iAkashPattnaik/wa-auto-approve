@@ -1,0 +1,7 @@
+node_modules/
+auth_state/*
+!auth_state/.gitkeep
+.env
+credentials.json
+*.log
+.DS_Store
