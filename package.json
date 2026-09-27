@@ -16,7 +16,7 @@
     "@whiskeysockets/baileys": "^6.7.0",
     "chalk": "^4.1.2",
     "dotenv": "^16.4.5",
-    "googleapis": "^140.0.0",
+    "googleapis": "^182.0.0",
     "qrcode-terminal": "^0.12.0"
   }
 }
